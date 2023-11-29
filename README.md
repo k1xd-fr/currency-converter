@@ -45,7 +45,7 @@ Follow these steps to get a local copy of the project up and running on your mac
     npm run dev
     ```
 
-2. Open your browser and navigate to [http://localhost:3000](http://localhost:3000).
+2. Open your browser and navigate to [http://localhost:5173](http://localhost:5173).
 
 3. Select the source and target currencies, enter the amount, and see the conversion result.
 
